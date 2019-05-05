@@ -1,0 +1,4 @@
+1. Install python or python 3 from below link
+    https://www.python.org/downloads/
+2. From pip install opencv-python
+    pip install opencv-python
